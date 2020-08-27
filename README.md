@@ -6,7 +6,7 @@
 - [Interview Prep](#interviewprep)
 - [APIs](#apis)
 - [Design](#design)
-- [Editors](#editors)
+- [Editors and IDEs](#editorsandides)
 
 ## Front-End Cheatsheets
 
@@ -79,9 +79,9 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Editors
+## Editors and IDEs
 
-> Editor shortcuts for higher productivity
+> Editor + IDE shortcuts for higher productivity
 
 | Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
