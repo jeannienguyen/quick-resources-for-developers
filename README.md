@@ -8,7 +8,7 @@
 - [Design](#design)
 - [Editors and IDEs](#editors-and-ides)
 
-## Front-End Cheatsheets
+## Frontend Cheatsheets
 
 > Cheatsheets for different languages and tools
 
