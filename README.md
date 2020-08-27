@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [Front-End Cheatsheets](#frontendcheatsheets)
-- [Interview Prep](#interviewprep)
+- [Frontend Cheatsheets](#frontend-cheatsheets)
+- [Interview Prep](#interview-prep)
 - [APIs](#apis)
 - [Design](#design)
-- [Editors and IDEs](#editorsandides)
+- [Editors and IDEs](#editors-and-ides)
 
 ## Front-End Cheatsheets
 
