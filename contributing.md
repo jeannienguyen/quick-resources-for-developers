@@ -10,4 +10,4 @@
 
   - Example: `Link: https://randoma11y.com/`
 
-- Double check if the resource is free.
+- Double check that the resource is free.
