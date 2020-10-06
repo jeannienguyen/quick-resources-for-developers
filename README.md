@@ -79,6 +79,40 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+> Top free HTML Templates
+
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [UI deck](http://uideck.com)                                                                                               | Landing Page Templates           |
+| [Creative Tim](http://creative-Tim.com)                                                                                    | UI KITS, Tools etc.              |
+| [HTML 5 UP](http://html5up.net)                                                                                            | Spiffy HTML5 site templates      |
+| [Free Html 5](http://freehtml5.co)                                                                                         | HTML5 Bootstrap Templates        |
+| [One Page Website](http://onepagelove.com)                                                                                 | One Page Love Websites           |
+| [Grey Grids](http://graygrids.com)                                                                                         | Grey Grid Website                |
+| [Landing Page Template](http://inovatik.com)                                                                               | Free Landing Page Templates      |
+| [UI Cookies](http://uicookies.com)                                                                                         | Responsive Web Templates         |
+
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+> UI Inspiration:
+
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [Dribble](https://dribbble.com)                                                                                               | UI creation platform           |
+| [Evernote](https://www.evernote.design)                                                                                    | All in one Bookmarks              |
+| [Page Flows](https://pageflows.com)                                                                                            | Better user Flow from products      |
+| [UI Designs](https://uimovement.com/)                                                                                         | UI Inspirational Designs        |
+| [UI Garage](https://uigarage.net/)                                                                                 | Hand Picked UI           |
+| [Collectt UI](http://collectui.com/)                                                                                         | Daily Updated UI                |
+
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Editors and IDEs
 
 > Editor + IDE shortcuts for higher productivity
