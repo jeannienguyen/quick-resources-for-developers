@@ -6,7 +6,10 @@
 - [Interview Prep](#interview-prep)
 - [APIs](#apis)
 - [Design](#design)
+- [Templates](#templates)
+- [UI Inspiration](#ui-inspiration)
 - [Editors and IDEs](#editors-and-ides)
+- [Chrome Extensions](#chrome-extensions)
 
 ## Frontend Cheatsheets
 
@@ -79,34 +82,38 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-> Top free HTML Templates
+## Templates
+
+> Free HTML templates for developers
 
 | Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [UI deck](http://uideck.com)                                                                                               | Landing Page Templates           |
-| [Creative Tim](http://creative-Tim.com)                                                                                    | UI KITS, Tools etc.              |
+| [UI deck](http://uideck.com)                                                                                               | Landing page templates           |
+| [Creative Tim](http://creative-Tim.com)                                                                                    | UI kits, tools ,resources etc.   |
 | [HTML 5 UP](http://html5up.net)                                                                                            | Spiffy HTML5 site templates      |
-| [Free Html 5](http://freehtml5.co)                                                                                         | HTML5 Bootstrap Templates        |
-| [One Page Website](http://onepagelove.com)                                                                                 | One Page Love Websites           |
-| [Grey Grids](http://graygrids.com)                                                                                         | Grey Grid Website                |
-| [Landing Page Template](http://inovatik.com)                                                                               | Free Landing Page Templates      |
-| [UI Cookies](http://uicookies.com)                                                                                         | Responsive Web Templates         |
+| [Free Html 5](http://freehtml5.co)                                                                                         | HTML5 bootstrap templates        |
+| [One Page Website](http://onepagelove.com)                                                                                 | One page websites templates      |
+| [Grey Grids](http://graygrids.com)                                                                                         | Dashboard and business templates |
+| [Landing Page Template](http://inovatik.com)                                                                               | Free landing page templates      |
+| [UI Cookies](http://uicookies.com)                                                                                         | Responsive web templates         |
 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-> UI Inspiration:
+## UI Inspiration
+
+> List of inspirational UI
 
 | Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [Dribble](https://dribbble.com)                                                                                               | UI creation platform           |
-| [Evernote](https://www.evernote.design)                                                                                    | All in one Bookmarks              |
-| [Page Flows](https://pageflows.com)                                                                                            | Better user Flow from products      |
-| [UI Designs](https://uimovement.com/)                                                                                         | UI Inspirational Designs        |
-| [UI Garage](https://uigarage.net/)                                                                                 | Hand Picked UI           |
-| [Collectt UI](http://collectui.com/)                                                                                         | Daily Updated UI                |
+| [Dribble](https://dribbble.com)                                                                                            | UI creation platform             |
+| [Evernote](https://www.evernote.design)                                                                                    | All in the one bookmarks         |
+| [Page Flows](https://pageflows.com)                                                                                        | Better user flow from products   |
+| [UI Designs](https://uimovement.com/)                                                                                      | UI inspirational designs for devs|
+| [UI Garage](https://uigarage.net/)                                                                                         | Hand picked UI                   |
+| [Collectt UI](http://collectui.com/)                                                                                       | Daily updated UI                 |
 
 
 <div align="right">
@@ -123,6 +130,26 @@
 | [VS Code Windows Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)               | VS Code shortcuts for Windows    |
 | [IntelliJ IDEA Keyboard Shortcuts](jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)                              | IntelliJ IDEA keyboard shortcuts |
 | [Top 15 IntelliJ IDEA Shortcuts](https://blog.jetbrains.com/idea/2020/03/top-15-intellij-idea-shortcuts/)                  | Top 15 IntelliJ IDEA shortcuts   |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Chrome Extensions
+
+> Chrome extensions helpful for developers
+
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                  | Adds web developer tools         |
+| [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)                         | Simple CSS property viewer       |
+| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                        | Identify web technologies        |
+| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                            | Validate and view JSON documents |
+| [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkd)| Create default text             |
+| [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)       | Suspends useless tabs           |
+| [Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)   |Visually interact with REST, SOAP and HTTP APIs.|
+| [Clear Cache](https://chrome.google.com/webstore/detail/clean-guru-cache-history/njjijbcogjkninkeeobbbkcbiblpjafa)         | Clear caches                     |
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/pfbmlnomgijlihdlfkainnbialppgilg)                            |Hover and see which font is used  | 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
