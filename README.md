@@ -79,6 +79,7 @@
 | [CSS Gradient](https://cssgradient.io/)                                                                    | CSS generator, maker, and background              |
 | [Make Wave SVGs](https://getwaves.io/)                                                                     | Wave SVG generator                                |
 | [Make Blob SVGs](https://www.blobmaker.app/)                                                               | Blob SVG generator                                |
+| [HTML Color Codes](https://www.hexcolortool.com/)                                                          | Colors in Hex, RGBA, and HSL                      |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
