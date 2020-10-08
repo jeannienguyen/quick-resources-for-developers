@@ -152,6 +152,7 @@
 | [Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)    | Visually interact with REST, SOAP and HTTP APIs. |
 | [Clear Cache](https://chrome.google.com/webstore/detail/clean-guru-cache-history/njjijbcogjkninkeeobbbkcbiblpjafa)           | Clear caches                                     |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/pfbmlnomgijlihdlfkainnbialppgilg)                              | Hover and see which font is used                 |
+| [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)         | Create website with pixel perfect accuracy       |     
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
