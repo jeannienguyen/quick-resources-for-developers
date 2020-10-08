@@ -77,6 +77,8 @@
 | [CSS Specificty Calculator](https://specificity.keegan.st/)                                                | A visual way to understand CSS specificity        |
 | [Color Schemes Generator](https://coolors.co/)                                                             | Create or get inspired by color schemes           |
 | [CSS Gradient](https://cssgradient.io/)                                                                    | CSS generator, maker, and background              |
+| [Make Wave SVGs](https://getwaves.io/)                                                                     | Wave SVG generator                                |
+| [Make Blob SVGs](https://www.blobmaker.app/)                                                               | Blob SVG generator                                |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -86,17 +88,16 @@
 
 > Free HTML templates for developers
 
-| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
-| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [UI deck](http://uideck.com)                                                                                               | Landing page templates           |
-| [Creative Tim](http://creative-Tim.com)                                                                                    | UI kits, tools ,resources etc.   |
-| [HTML 5 UP](http://html5up.net)                                                                                            | Spiffy HTML5 site templates      |
-| [Free Html 5](http://freehtml5.co)                                                                                         | HTML5 bootstrap templates        |
-| [One Page Website](http://onepagelove.com)                                                                                 | One page websites templates      |
-| [Grey Grids](http://graygrids.com)                                                                                         | Dashboard and business templates |
-| [Landing Page Template](http://inovatik.com)                                                                               | Free landing page templates      |
-| [UI Cookies](http://uicookies.com)                                                                                         | Responsive web templates         |
-
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                      |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [UI deck](http://uideck.com)                                                                               | Landing page templates           |
+| [Creative Tim](http://creative-Tim.com)                                                                    | UI kits, tools ,resources etc.   |
+| [HTML 5 UP](http://html5up.net)                                                                            | Spiffy HTML5 site templates      |
+| [Free Html 5](http://freehtml5.co)                                                                         | HTML5 bootstrap templates        |
+| [One Page Website](http://onepagelove.com)                                                                 | One page websites templates      |
+| [Grey Grids](http://graygrids.com)                                                                         | Dashboard and business templates |
+| [Landing Page Template](http://inovatik.com)                                                               | Free landing page templates      |
+| [UI Cookies](http://uicookies.com)                                                                         | Responsive web templates         |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -106,15 +107,14 @@
 
 > List of inspirational UI
 
-| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
-| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [Dribble](https://dribbble.com)                                                                                            | UI creation platform             |
-| [Evernote](https://www.evernote.design)                                                                                    | All in the one bookmarks         |
-| [Page Flows](https://pageflows.com)                                                                                        | Better user flow from products   |
-| [UI Designs](https://uimovement.com/)                                                                                      | UI inspirational designs for devs|
-| [UI Garage](https://uigarage.net/)                                                                                         | Hand picked UI                   |
-| [Collectt UI](http://collectui.com/)                                                                                       | Daily updated UI                 |
-
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                       |
+| ---------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [Dribble](https://dribbble.com)                                                                            | UI creation platform              |
+| [Evernote](https://www.evernote.design)                                                                    | All in the one bookmarks          |
+| [Page Flows](https://pageflows.com)                                                                        | Better user flow from products    |
+| [UI Designs](https://uimovement.com/)                                                                      | UI inspirational designs for devs |
+| [UI Garage](https://uigarage.net/)                                                                         | Hand picked UI                    |
+| [Collectt UI](http://collectui.com/)                                                                       | Daily updated UI                  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -139,17 +139,17 @@
 
 > Chrome extensions helpful for developers
 
-| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
-| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                  | Adds web developer tools         |
-| [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)                         | Simple CSS property viewer       |
-| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                        | Identify web technologies        |
-| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                            | Validate and view JSON documents |
-| [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkd)| Create default text             |
-| [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)       | Suspends useless tabs           |
-| [Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)   |Visually interact with REST, SOAP and HTTP APIs.|
-| [Clear Cache](https://chrome.google.com/webstore/detail/clean-guru-cache-history/njjijbcogjkninkeeobbbkcbiblpjafa)         | Clear caches                     |
-| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/pfbmlnomgijlihdlfkainnbialppgilg)                            |Hover and see which font is used  | 
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                   | Description                                      |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                    | Adds web developer tools                         |
+| [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)                           | Simple CSS property viewer                       |
+| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                          | Identify web technologies                        |
+| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                              | Validate and view JSON documents                 |
+| [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkd) | Create default text                              |
+| [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)        | Suspends useless tabs                            |
+| [Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)    | Visually interact with REST, SOAP and HTTP APIs. |
+| [Clear Cache](https://chrome.google.com/webstore/detail/clean-guru-cache-history/njjijbcogjkninkeeobbbkcbiblpjafa)           | Clear caches                                     |
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/pfbmlnomgijlihdlfkainnbialppgilg)                              | Hover and see which font is used                 |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
