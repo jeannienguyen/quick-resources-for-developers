@@ -61,6 +61,7 @@
 | [Pokémon TCG API](https://pokemontcg.io/)                                                                  | Pokémon Trading Card Game API                     |
 | [REST Countries](https://restcountries.eu/)                                                                | Get information about countries via a RESTful API |
 | [Trefle](https://trefle.io/)                                                                               | A global plants API                               |
+| [Financial Modeling Prep API](https://financialmodelingprep.com/developer/)                                | Stock, financial data and statements API          |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
