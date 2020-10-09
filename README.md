@@ -30,7 +30,7 @@
 | [Stylus](https://devhints.io/stylus)                                                                               | Cheatsheet for Stylus            |
 | [GraphQL](https://bit.ly/2PYcYPk)                                                                                  | Cheatsheet for GraphQL           |
 | [Webpack](https://devhints.io/webpack)                                                                             | Cheatsheet for Webpack           |
-| [CSS Specificity](https://cssspecificity.com/)                                                                     | CSS specificty cheatsheet        |
+| [CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)                                            | CSS specificty cheatsheet        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
