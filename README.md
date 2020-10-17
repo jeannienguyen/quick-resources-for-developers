@@ -81,6 +81,8 @@
 | [Make Wave SVGs](https://getwaves.io/)                                                                     | Wave SVG generator                                |
 | [Make Blob SVGs](https://www.blobmaker.app/)                                                               | Blob SVG generator                                |
 | [HTML Color Codes](https://www.hexcolortool.com/)                                                          | Colors in Hex, RGBA, and HSL                      |
+| [Copy & Paste Emojis](https://getemoji.com/)                                                               | Copy and paste emojis, no apps required           |
+| [Emojipedia](https://emojipedia.org/)                                                                      | Emoji library                                     |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -152,7 +154,7 @@
 | [Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)    | Visually interact with REST, SOAP and HTTP APIs. |
 | [Clear Cache](https://chrome.google.com/webstore/detail/clean-guru-cache-history/njjijbcogjkninkeeobbbkcbiblpjafa)           | Clear caches                                     |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/pfbmlnomgijlihdlfkainnbialppgilg)                              | Hover and see which font is used                 |
-| [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)         | Create website with pixel perfect accuracy       |     
+| [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)         | Create website with pixel perfect accuracy       |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
