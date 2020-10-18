@@ -166,3 +166,7 @@
 | Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | [Github](https://training.github.com/downloads/github-git-cheat-sheet/)                                                    | Github Cheatsheet                |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
