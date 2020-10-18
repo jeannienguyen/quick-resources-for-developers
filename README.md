@@ -10,6 +10,7 @@
 - [UI Inspiration](#ui-inspiration)
 - [Editors and IDEs](#editors-and-ides)
 - [Chrome Extensions](#chrome-extensions)
+- [CLI](#cli)
 
 ## Frontend Cheatsheets
 
@@ -157,3 +158,11 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+## CLI
+
+> Useful CLI resources
+
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [Github](https://training.github.com/downloads/github-git-cheat-sheet/)                                                    | Github Cheatsheet                |
