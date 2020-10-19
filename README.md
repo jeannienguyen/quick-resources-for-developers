@@ -10,6 +10,7 @@
 - [UI Inspiration](#ui-inspiration)
 - [Editors and IDEs](#editors-and-ides)
 - [Chrome Extensions](#chrome-extensions)
+- [CLI](#cli)
 
 ## Frontend Cheatsheets
 
@@ -156,6 +157,18 @@
 | [Clear Cache](https://chrome.google.com/webstore/detail/clean-guru-cache-history/njjijbcogjkninkeeobbbkcbiblpjafa)           | Clear caches                                     |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/pfbmlnomgijlihdlfkainnbialppgilg)                              | Hover and see which font is used                 |
 | [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)         | Create website with pixel perfect accuracy       |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## CLI
+
+> Useful CLI resources
+
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [Github](https://training.github.com/downloads/github-git-cheat-sheet/)                                                    | Github Cheatsheet                |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
