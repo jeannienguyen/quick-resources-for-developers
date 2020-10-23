@@ -85,6 +85,7 @@
 | [HTML Color Codes](https://www.hexcolortool.com/)                                                          | Colors in Hex, RGBA, and HSL                      |
 | [Copy & Paste Emojis](https://getemoji.com/)                                                               | Copy and paste emojis, no apps required           |
 | [Emojipedia](https://emojipedia.org/)                                                                      | Emoji library                                     |
+| [SVG Background Patterns](https://www.heropatterns.com/)                                                   | SVG background patterns for web projects                     |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
