@@ -105,6 +105,7 @@
 | [Grey Grids](http://graygrids.com)                                                                         | Dashboard and business templates |
 | [Landing Page Template](http://inovatik.com)                                                               | Free landing page templates      |
 | [UI Cookies](http://uicookies.com)                                                                         | Responsive web templates         |
+| [W3Layouts](https://w3layouts.com/)                                                                        | Free HTML 3000+ templates        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
