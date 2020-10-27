@@ -86,6 +86,7 @@
 | [Copy & Paste Emojis](https://getemoji.com/)                                                               | Copy and paste emojis, no apps required           |
 | [Emojipedia](https://emojipedia.org/)                                                                      | Emoji library                                     |
 | [Hero Patterns](https://www.heropatterns.com/)                                                             | SVG background patterns for web projects                     |
+| [Radix Icons](https://icons.modulz.app/)                                                                   | |A crisp set of 15×15 icons. All icons available as individual react component,SVG and more.                    |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
