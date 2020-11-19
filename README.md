@@ -12,6 +12,7 @@
 - [UI Inspiration](#ui-inspiration)
 - [Editors and IDEs](#editors-and-ides)
 - [Chrome Extensions](#chrome-extensions)
+- [CLI](#cli)
 
 ## Frontend Cheatsheets
 
@@ -86,6 +87,8 @@
 | [HTML Color Codes](https://www.hexcolortool.com/)                                                          | Colors in Hex, RGBA, and HSL                      |
 | [Copy & Paste Emojis](https://getemoji.com/)                                                               | Copy and paste emojis, no apps required           |
 | [Emojipedia](https://emojipedia.org/)                                                                      | Emoji library                                     |
+| [Hero Patterns](https://www.heropatterns.com/)                                                             | SVG background patterns for web projects                     |
+| [Radix Icons](https://icons.modulz.app/)                                                                   | A crisp set of 15×15 icons. All icons available as individual react component,SVG and more.                    |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -105,6 +108,7 @@
 | [Grey Grids](http://graygrids.com)                                                                         | Dashboard and business templates |
 | [Landing Page Template](http://inovatik.com)                                                               | Free landing page templates      |
 | [UI Cookies](http://uicookies.com)                                                                         | Responsive web templates         |
+| [W3Layouts](https://w3layouts.com/)                                                                        | Free HTML 3000+ templates        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -158,6 +162,18 @@
 | [Clear Cache](https://chrome.google.com/webstore/detail/clean-guru-cache-history/njjijbcogjkninkeeobbbkcbiblpjafa)           | Clear caches                                     |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/pfbmlnomgijlihdlfkainnbialppgilg)                              | Hover and see which font is used                 |
 | [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)         | Create website with pixel perfect accuracy       |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## CLI
+
+> Useful CLI resources
+
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [Github](https://training.github.com/downloads/github-git-cheat-sheet/)                                                    | Github Cheatsheet                |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
