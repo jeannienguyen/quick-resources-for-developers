@@ -13,27 +13,33 @@
 - [Editors and IDEs](#editors-and-ides)
 - [Chrome Extensions](#chrome-extensions)
 - [CLI](#cli)
+- [Sandboxes](#sandboxes)
+- [Optimization](#optimization)
 
-## Frontend Cheatsheets
+## Frontend Cheatsheets and References
 
-> Cheatsheets for different languages and tools
+> Cheatsheets and references
 
-| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;         | Description                      |
-| ------------------------------------------------------------------------------------------------------------------ | -------------------------------- |
-| [JavaScript ES2015](https://devhints.io/es6)                                                                       | Cheatsheet for JavaScript ES2015 |
-| [JavaScript](http://overapi.com/javascript)                                                                        | Cheatsheet for JavaScript        |
-| [JavaScript Regular Expression](https://www.debuggex.com/cheatsheet/regex/javascript)                              | Cheatsheet for JavaScript RegEx  |
-| [React](https://devhints.io/react)                                                                                 | Cheatsheet for React             |
-| [Redux](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf) | Cheatsheet for Redux             |
-| [Vue.js](https://vuejs-tips.github.io/cheatsheet/)                                                                 | Cheatsheet for Vue.js            |
-| [Vuex](https://vuejs-tips.github.io/vuex-cheatsheet/)                                                              | Cheatsheet for Vuex              |
-| [Angular 4](https://angular.io/guide/cheatsheet)                                                                   | Cheatsheet for Angular 4         |
-| [Flexbox](https://yoksel.github.io/flex-cheatsheet/)                                                               | Cheatsheet for Flexbox           |
-| [SCSS](https://devhints.io/sass)                                                                                   | Cheatsheet for SCSS              |
-| [Stylus](https://devhints.io/stylus)                                                                               | Cheatsheet for Stylus            |
-| [GraphQL](https://bit.ly/2PYcYPk)                                                                                  | Cheatsheet for GraphQL           |
-| [Webpack](https://devhints.io/webpack)                                                                             | Cheatsheet for Webpack           |
-| [CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)                                            | CSS specificty cheatsheet        |
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;         | Description                            |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| [JavaScript ES2015](https://devhints.io/es6)                                                                       | Cheatsheet for JavaScript ES2015       |
+| [JavaScript](http://overapi.com/javascript)                                                                        | Cheatsheet for JavaScript              |
+| [JavaScript Regular Expression](https://www.debuggex.com/cheatsheet/regex/javascript)                              | Cheatsheet for JavaScript RegEx        |
+| [Emmet](https://docs.emmet.io/cheat-sheet/)                                                                        | Cheatsheet for Emmet                   |
+| [React](https://devhints.io/react)                                                                                 | Cheatsheet for React                   |
+| [Redux](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf) | Cheatsheet for Redux                   |
+| [Vue.js](https://vuejs-tips.github.io/cheatsheet/)                                                                 | Cheatsheet for Vue.js                  |
+| [Vuex](https://vuejs-tips.github.io/vuex-cheatsheet/)                                                              | Cheatsheet for Vuex                    |
+| [Angular 4](https://angular.io/guide/cheatsheet)                                                                   | Cheatsheet for Angular 4               |
+| [Flexbox](https://yoksel.github.io/flex-cheatsheet/)                                                               | Cheatsheet for Flexbox                 |
+| [SCSS](https://devhints.io/sass)                                                                                   | Cheatsheet for SCSS                    |
+| [Stylus](https://devhints.io/stylus)                                                                               | Cheatsheet for Stylus                  |
+| [GraphQL](https://bit.ly/2PYcYPk)                                                                                  | Cheatsheet for GraphQL                 |
+| [Webpack](https://devhints.io/webpack)                                                                             | Cheatsheet for Webpack                 |
+| [CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)                                            | CSS specificty cheatsheet              |
+| [HTML Reference](https://htmlreference.io/)                                                                        | A Guide to All Elements and Attributes |
+| [CSS Reference](https://cssreference.io/)                                                                          | A Visual Guide to CSS                  |
+| [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)                                               | An Extensive CSS Reference             |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -74,21 +80,27 @@
 
 > Design resources
 
-| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                       |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)         | List of design, UI resources, tools, and more     |
-| [unDraw](https://undraw.co/)                                                                               | Open-source illustrations and SVG images          |
-| [Randoma11y](https://randoma11y.com/)                                                                      | Random generated color pattern with high contrast |
-| [CSS Specificty Calculator](https://specificity.keegan.st/)                                                | A visual way to understand CSS specificity        |
-| [Color Schemes Generator](https://coolors.co/)                                                             | Create or get inspired by color schemes           |
-| [CSS Gradient](https://cssgradient.io/)                                                                    | CSS generator, maker, and background              |
-| [Make Wave SVGs](https://getwaves.io/)                                                                     | Wave SVG generator                                |
-| [Make Blob SVGs](https://www.blobmaker.app/)                                                               | Blob SVG generator                                |
-| [HTML Color Codes](https://www.hexcolortool.com/)                                                          | Colors in Hex, RGBA, and HSL                      |
-| [Copy & Paste Emojis](https://getemoji.com/)                                                               | Copy and paste emojis, no apps required           |
-| [Emojipedia](https://emojipedia.org/)                                                                      | Emoji library                                     |
-| [Hero Patterns](https://www.heropatterns.com/)                                                             | SVG background patterns for web projects                     |
-| [Radix Icons](https://icons.modulz.app/)                                                                   | A crisp set of 15×15 icons. All icons available as individual react component,SVG and more.                    |
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                        |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [unDraw](https://undraw.co/)                                                                               | Open-source illustrations and SVG images           |
+| [Make Wave SVGs](https://getwaves.io/)                                                                     | Wave SVG generator                                 |
+| [Make Blob SVGs](https://www.blobmaker.app/)                                                               | Blob SVG generator                                 |
+| [Buttons](https://unicorn-ui.com/buttons/builder/)                                                         | A CSS button library built with Sass & Compass     |
+| [Animate.css](https://animate.style/)                                                                      | CSS animations                                     |
+| [CSShake](https://elrumordelaluz.github.io/csshake/)                                                       | CSS shake graphics                                 |
+| [Hero Patterns](https://www.heropatterns.com/)                                                             | SVG background patterns for web projects           |
+| [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)                                        | Free tilable textured patterns                     |
+| [CSS Specificty Calculator](https://specificity.keegan.st/)                                                | A visual way to understand CSS specificity         |
+| [Randoma11y](https://randoma11y.com/)                                                                      | Random generated color pattern with high contrast  |
+| [HTML Color Codes](https://www.hexcolortool.com/)                                                          | Colors in Hex, RGBA, and HSL                       |
+| [Color Hex](https://www.colorhexa.com/)                                                                    | A color tool that provides info about any color    |
+| [Color Safe](http://colorsafe.co/)                                                                         | Accessible color palettes based on WCAG Guidelines |
+| [UI Gradients](https://uigradients.com/#Pizelex)                                                           | Colored gradients                                  |
+| [Color Schemes Generator](https://coolors.co/)                                                             | Create or get inspired by color schemes            |
+| [CSS Gradient](https://cssgradient.io/)                                                                    | CSS generator, maker, and background               |
+| [Copy & Paste Emojis](https://getemoji.com/)                                                               | Copy and paste emojis, no apps required            |
+| [Emojipedia](https://emojipedia.org/)                                                                      | Emoji library                                      |
+| [Radix Icons](https://icons.modulz.app/)                                                                   | 15×15 icons                                        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -171,9 +183,37 @@
 
 > Useful CLI resources
 
-| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 | Description                      |
-| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [Github](https://training.github.com/downloads/github-git-cheat-sheet/)                                                    | Github Cheatsheet                |
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description       |
+| ---------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Github](https://training.github.com/downloads/github-git-cheat-sheet/)                                    | Github Cheatsheet |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Sandboxes
+
+> Sandboxes and playgrounds
+
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                 |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| [Codepen](https://codepen.io/)                                                                             | Online editor - build & test front-end code |
+| [Devtools Playground](https://mozilladevelopers.github.io/playground/)                                     | Firefox Devtools Playground                 |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Optimization
+
+> Optimization
+
+| Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                         |
+| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [Pingdom Website Speed Test](https://tools.pingdom.com/)                                                   | Test & analyze the load time of a live page         |
+| [WebPagetest](https://www.webpagetest.org/)                                                                | Speed test from multiple locations around the globe |
+| [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)                              | Analyze website speed performance                   |
+| [TinyPNG](https://tinypng.com/)                                                                            | Image compression                                   |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
