@@ -74,6 +74,7 @@
 | Resources&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                        |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | [unDraw](https://undraw.co/)                                                                               | Open-source illustrations and SVG images           |
+| [FontPair](https://fontpair.co/)                                                                           | Font pairs and other typography resources          |
 | [Make Wave SVGs](https://getwaves.io/)                                                                     | Wave SVG generator                                 |
 | [Make Blob SVGs](https://www.blobmaker.app/)                                                               | Blob SVG generator                                 |
 | [Buttons](https://unicorn-ui.com/buttons/builder/)                                                         | A CSS button library built with Sass & Compass     |
