@@ -121,6 +121,7 @@
 | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
 | [JavaScript ES2015](https://devhints.io/es6)                                                                       | Cheatsheet for JavaScript ES2015       |
 | [JavaScript](http://overapi.com/javascript)                                                                        | Cheatsheet for JavaScript              |
+| [BestJSON JSON Comparison Guide](https://bestjson.com/learn/compare-json-ignore-order) | Reference for JSON object-key order, array order and record IDs |
 | [JavaScript Regular Expression](https://www.debuggex.com/cheatsheet/regex/javascript)                              | Cheatsheet for JavaScript RegEx        |
 | [Emmet](https://docs.emmet.io/cheat-sheet/)                                                                        | Cheatsheet for Emmet                   |
 | [React](https://devhints.io/react)                                                                                 | Cheatsheet for React                   |
